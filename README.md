@@ -10,3 +10,4 @@ This javascript code allows you to look at all UFO data provided from different 
   * Column for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
 * Use a date form in HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
+
