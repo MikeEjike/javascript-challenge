@@ -1,4 +1,4 @@
-# javascript-challenge - JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation
 This javascript code allows you to look at all UFO data provided from different locations and gives the user the ability to filter, by date, through all the UFO sighting information.
 
 ### Level 1: Automatic Table and Date Search
